@@ -28,4 +28,8 @@ To run the code and follow along, you'll need to have Python installed on your c
 
 The editor I used to create Python scripts: [Visual Studio Code](https://code.visualstudio.com)
 
+### References  📚
 
+Classes we had over the semester:  Professor Andrew Beatty. Git Hub: https://github.com/andrewbeattycourseware/PFDA-courseware .
+
+You will find more references within each assignment.
