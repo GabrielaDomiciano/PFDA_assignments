@@ -25,19 +25,6 @@ To run the code and follow along, you'll need to have Python installed on your c
 
  - Pyhton: [Pyhton](https://www.python.org).
 
-Python libraries are useful functions and modules that reduce code usage in the program.
-
-- Pandas: [Pandas](https://pandas.pydata.org)
-
-- Numpy: [Numpy](https://numpy.org)
-
-- Seaborn: [Seaborn](https://seaborn.pydata.org)
-
-- Collections: [Container](https://docs.python.org/3/library/collections.html)
-
-- Matplotlib: [Matplotlib](https://matplotlib.org)
-
-
 
 The editor I used to create Python scripts: [Visual Studio Code](https://code.visualstudio.com)
 
